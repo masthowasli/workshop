@@ -1,0 +1,33 @@
+{
+    "name": "bytepark/workshop",
+    "type": "application",
+    "description": "Some random application",
+    "keywords": ["application"],
+    "homepage": "http://www.bytepark.de",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bytepark GmbH",
+            "email": "code@bytepark.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bytepark\\MyNamespace\\" : "src/foo/",
+            "Bytepark\\Test\\MyNamespace\\" : "test/bar/"
+        }
+    },
+    "require": {
+        "silex/silex" : "~1.0"
+    },
+    "require-dev" : {
+        "bytepark/phpqatools" : "~1.0"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://composer.bytenetz.de"
+        }
+    ]
+}
+

@@ -18,3 +18,4 @@ developing _web_ applications.
 
 1. [Basics](doc/basics.md)
 2. [Infrastructure](doc/infrastructure.md)
+3. [PHP Stack](doc/php-stack.md)
