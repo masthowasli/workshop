@@ -2,7 +2,7 @@
 
 ## composer
 
-[Get it](http:getcomposer.com) and [use it](http://packagist.org)!
+[Get it](http:getcomposer.org) and [use it](http://packagist.org)!
 
 ## PHP QA Tools
 
