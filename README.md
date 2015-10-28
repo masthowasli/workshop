@@ -17,3 +17,4 @@ importance of combining all these techniques to gain a real benefit in
 developing _web_ applications.
 
 1. [Basics](doc/basics.md)
+2. [Infrastructure](doc/infrastructure.md)
